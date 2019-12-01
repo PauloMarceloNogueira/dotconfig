@@ -1,0 +1,23 @@
+{
+  "[typescript]": {},
+  "editor.tabSize": 2,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 0,
+  "sass.disableAutoIndent": false,
+  "nativescript.analytics.enabled": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.colorTheme": "Dracula",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.highlightModifiedTabs": true,
+  "editor.formatOnSave": true,
+  "editor.fontSize": 14,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "Fira Code",
+  // "explorer.sortOrder": "modified",
+  "files.trimFinalNewlines": true,
+  "editor.acceptSuggestionOnEnter": "off"
+  "prettier.singleQuote": true,
+  "prettier.jsxSingleQuote": true
+  "javascript.preferences.quoteStyle": "single",
+  "typescript.preferences.quoteStyle": "single"
+}
